@@ -50,5 +50,8 @@ Feature engineering included creating columns for foreign gross, release months,
 
 •	README.md: Provides an overview of the project, business problems explored, data understanding, analysis, conclusions, and repository structure.
 
+•	Presentation: Contains the presentation slides in pdf detailing the project findings.
+
+
 
 
