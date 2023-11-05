@@ -1,6 +1,6 @@
 
-Beyond-the-Screen
-Beyond the Screen: Movie Industry Analysis
+**Beyond-the-Screen
+Beyond the Screen: Movie Industry Analysis**
 
 **Overview**
 
