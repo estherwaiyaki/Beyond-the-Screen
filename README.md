@@ -35,6 +35,7 @@ Feature engineering included creating columns for foreign gross, release months,
 •	Analyzed the impact of the release day of the week on profitability, guiding strategic release planning.
 
 **Conclusion and Findings**
+
 •	The analysis challenged the common assumption that higher production budgets directly lead to increased profitability. 
 
 •	It provided evidence-based recommendations for optimal release timing, guiding production companies on strategic decisions to maximize profits in various markets.
