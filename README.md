@@ -13,10 +13,12 @@ Business Problems Explored
 
 Data Understanding
 
-The analysis uses the tn.movie_budgets dataset, including details about movies, production budgets, release dates, domestic gross, and worldwide gross. The initial exploration involved data cleaning, converting data types, and handling zero values to ensure data accuracy.
+The analysis uses the tn.movie_budgets dataset, including details about movies, production budgets, release dates, domestic gross, and worldwide gross. 
+The initial exploration involved data cleaning, converting data types, and handling zero values to ensure data accuracy.
 
 Data Preparation
-Data cleaning involved dropping rows with zero values in domestic and worldwide gross, ensuring a clean dataset for analysis. Feature engineering included creating columns for foreign gross, release months, release days of the week, and various profitability metrics.
+Data cleaning involved dropping rows with zero values in domestic and worldwide gross, ensuring a clean dataset for analysis. 
+Feature engineering included creating columns for foreign gross, release months, release days of the week, and various profitability metrics.
 
 Analysis and Visualization
 •	Explored correlations between production budgets and domestic, foreign, and worldwide gross, indicating a positive correlation.
@@ -28,7 +30,6 @@ Conclusion and Findings
 •	It provided evidence-based recommendations for optimal release timing, guiding production companies on strategic decisions to maximize profits in various markets.
 
 Repository Structure
-
 •	Data: Contains the raw dataset (tn.movie_budgets.csv) used for analysis.
 •	Notebooks: Includes Jupyter Notebooks detailing the entire analysis process.
 •	Visualizations: Contains visual representations generated during the analysis.
