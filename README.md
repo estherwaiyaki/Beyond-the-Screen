@@ -1,9 +1,9 @@
 # Beyond-the-Screen
-Beyond the Screen: Movie Industry Analysis
+****Beyond the Screen: Movie Industry Analysis**
 Overview
 Beyond the Screen is an in-depth analysis project that explores the intricate dynamics of the movie industry. By investigating various critical aspects such as production budgets, release strategies, and timing considerations, this project aims to provide valuable insights to production companies and stakeholders. The analysis delves into understanding the factors that significantly influence a movie's financial success, encompassing both domestic and international markets.
 
-Business Problems Explored
+**Business Problems Explored**
 Impact of Production Budget on Financial Performance: Investigates the influence of production budget on a film's financial success, aiming to understand if a higher budget directly correlates with increased profitability.
 Impact of Production Budget on Gross Revenue: Explores how the production budget affects a movie's domestic and worldwide gross, analyzing the correlation between budget and revenue.
 Impact of Release Month on Profitability: Investigates whether the month of release significantly impacts a movie's profitability, identifying the most favorable months for maximizing profits.
